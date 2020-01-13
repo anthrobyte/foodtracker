@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "16c637ad082097de5b3c249a725c127f"
+build_time: [1578929683, 820271000]
+inputs:
+  "/Users/mattmoore/Documents/FoodTracker/FoodTracker/Meal.swift": [1578923841, 177105664]
+  "/Users/mattmoore/Documents/FoodTracker/FoodTracker/RatingControl.swift": [1578839896, 332622557]
+  "/Users/mattmoore/Documents/FoodTracker/FoodTracker/MealTableViewController.swift": [1578924755, 304963144]
+  "/Users/mattmoore/Documents/FoodTracker/FoodTracker/MealTableViewCell.swift": [1578858449, 132528879]
+  "/Users/mattmoore/Documents/FoodTracker/FoodTracker/MealViewController.swift": [1578922805, 858845271]
+  "/Users/mattmoore/Documents/FoodTracker/FoodTracker/AppDelegate.swift": [1578793741, 764936747]
+  "/Users/mattmoore/Documents/FoodTracker/FoodTracker/SceneDelegate.swift": [1578793741, 768866137]

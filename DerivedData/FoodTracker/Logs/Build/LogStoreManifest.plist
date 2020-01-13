@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>28B76E38-0D5A-42E1-B96F-722B511A1531</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28B76E38-0D5A-42E1-B96F-722B511A1531.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600622248.95796204</real>
+			<key>timeStoppedRecording</key>
+			<real>600622252.48316205</real>
+			<key>title</key>
+			<string>Build FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>28B76E38-0D5A-42E1-B96F-722B511A1531</string>
+		</dict>
+		<key>351BD23B-A758-4EE6-96BA-37F6C264EE2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>351BD23B-A758-4EE6-96BA-37F6C264EE2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600622252.72841501</real>
+			<key>timeStoppedRecording</key>
+			<real>600622252.83559597</real>
+			<key>title</key>
+			<string>Clean FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>351BD23B-A758-4EE6-96BA-37F6C264EE2E</string>
+		</dict>
+		<key>5DEE6DC4-D5F7-4650-93B4-860E1D5195A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5DEE6DC4-D5F7-4650-93B4-860E1D5195A3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600621761.91243505</real>
+			<key>timeStoppedRecording</key>
+			<real>600621761.96009302</real>
+			<key>title</key>
+			<string>Build FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>5DEE6DC4-D5F7-4650-93B4-860E1D5195A3</string>
+		</dict>
+		<key>82BA6307-780C-4B06-AB98-0BC9B1D46FA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82BA6307-780C-4B06-AB98-0BC9B1D46FA7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600622256.00840104</real>
+			<key>timeStoppedRecording</key>
+			<real>600622256.05012202</real>
+			<key>title</key>
+			<string>Clean FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>82BA6307-780C-4B06-AB98-0BC9B1D46FA7</string>
+		</dict>
+		<key>C11B45B8-EF2E-4EA0-BEDD-3247335CC931</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C11B45B8-EF2E-4EA0-BEDD-3247335CC931.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600622268.82472003</real>
+			<key>timeStoppedRecording</key>
+			<real>600622275.57606494</real>
+			<key>title</key>
+			<string>Build FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>C11B45B8-EF2E-4EA0-BEDD-3247335CC931</string>
+		</dict>
+		<key>D159A88C-4F78-4EA3-86F2-92CE3D96C8C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D159A88C-4F78-4EA3-86F2-92CE3D96C8C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600622483.67159903</real>
+			<key>timeStoppedRecording</key>
+			<real>600622489.51244795</real>
+			<key>title</key>
+			<string>Build FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>D159A88C-4F78-4EA3-86F2-92CE3D96C8C0</string>
+		</dict>
+		<key>F829A26E-3C05-4EE6-A70D-20FCC777C840</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F829A26E-3C05-4EE6-A70D-20FCC777C840.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600622482.47040296</real>
+			<key>timeStoppedRecording</key>
+			<real>600622482.53151405</real>
+			<key>title</key>
+			<string>Clean FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>F829A26E-3C05-4EE6-A70D-20FCC777C840</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

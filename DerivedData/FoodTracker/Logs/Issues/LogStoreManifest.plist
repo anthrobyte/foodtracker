@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4811D60A-4A34-4A4D-81B8-FC45766ACC89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>4811D60A-4A34-4A4D-81B8-FC45766ACC89.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>FoodTracker-hlbwgbuykhutbgdmidjivtkgqbme</string>
+			<key>timeStartedRecording</key>
+			<real>600622483.78188097</real>
+			<key>timeStoppedRecording</key>
+			<real>600622489.49320102</real>
+			<key>title</key>
+			<string>Build target FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>4811D60A-4A34-4A4D-81B8-FC45766ACC89</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

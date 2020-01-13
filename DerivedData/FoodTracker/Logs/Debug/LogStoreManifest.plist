@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2781AD63-E17C-4A23-A4BA-0B5079510F93</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2781AD63-E17C-4A23-A4BA-0B5079510F93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600621761.98706806</real>
+			<key>timeStoppedRecording</key>
+			<real>600621783.48408604</real>
+			<key>title</key>
+			<string>Debug FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>2781AD63-E17C-4A23-A4BA-0B5079510F93</string>
+		</dict>
+		<key>433088D7-F2BA-4954-8404-11D41DCDC59B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>433088D7-F2BA-4954-8404-11D41DCDC59B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600622489.51783001</real>
+			<key>timeStoppedRecording</key>
+			<real>600622504.01236105</real>
+			<key>title</key>
+			<string>Debug FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>433088D7-F2BA-4954-8404-11D41DCDC59B</string>
+		</dict>
+		<key>791A48D4-9BAD-41C2-B70A-610808D9FCB7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>791A48D4-9BAD-41C2-B70A-610808D9FCB7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FoodTracker</string>
+			<key>timeStartedRecording</key>
+			<real>600622275.57923698</real>
+			<key>timeStoppedRecording</key>
+			<real>600622479.77746296</real>
+			<key>title</key>
+			<string>Debug FoodTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>791A48D4-9BAD-41C2-B70A-610808D9FCB7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
